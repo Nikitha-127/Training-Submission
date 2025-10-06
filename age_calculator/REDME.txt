@@ -1,0 +1,20 @@
+# Age Calculator - Python Program
+
+## Project Overview
+This Python program calculates a person's age based on their date of birth and the current date. The program dynamically determines the current year, 
+so it works correctly regardless of when it is run.
+
+## Features
+- Calculates age in years.
+- Dynamically detects the current year.
+- Can be extended to calculate exact age in years, months, and days.
+How to Run
+1. Make sure Python is installed on your system.
+2. Open a terminal or command prompt.
+3. Navigate to the folder containing `age_calculator.py`.
+4. Run the program:
+python age_calculator.py
+sql
+Copy code
+5. Enter your birth year (or full date if implemented for months/days) when prompted.
+6. The program will display your current age
